@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J2 Old Footprint=FP-TSW-108-08-G-S-MFG New Footprint=open_pad_8
+Change Component Comment : Designator=J2 Old Comment=TSW-108-08-G-S New Comment=pinpad
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=4D217471-488B-43E7-9BCD-31C537C2BB4F New ItemGUID= Old RevisionGUID=304F4657-3D09-4531-8A10-6CF0994E5DCC New RevisionGUID=
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FP-TSW-108-08-G-S-MFG"; UniqueID = "\UZPJVAUH" ("\UZPJVAUH")
+Added Member To Class: ClassName=Sheet1 Member=Component J1 USB 12MM
+Added Room: Name=Sheet1
